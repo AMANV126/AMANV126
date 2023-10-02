@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Aman Verma </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Namaste%2C+Welcome+to+Tarun's+Profile+;Active+Learner%2C+Fullstack+Developer" alt="Typing SVG" /></a>
+</p>
+<br>
+<hr>
+💫 About Me:
+👋 Hi, I’m @AMANV126<br>👀 I’m interested in innovating things.<br>🌱 I’m currently working with programming languages c,c++,python.<br>💞️ I’m looking to contribute on GitHub.<br>📫 How to reach me:-   amanverma9304@gmail.com<br>🚀 I’m currently open for an Intern or a new job opportunity, 
 
-<!--
-**AMANV126/AMANV126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+https://www.linkedin.com/in/aman-verma-48aa59285/<br>
+https://www.instagram.com/amanv_126/ <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 💻 Tech Stack:
+c/c++ , Python, HTML, CSS, JavaScript, reactJS, Node.js, MongoDB, Data Structures and Algorithms, DBMS, Network, operating system.
+
+	
